@@ -1,42 +1,42 @@
-# Hi there, I'm sushmeetha 👋
+# Hi there, I'm sushmeetha 🛡️
 
-I'm a Developer and Final-Year Computer Science Student passionate about building full-stack web applications, cybersecurity solutions, and AI-driven resilience systems. 
+I'm a **Cybersecurity Enthusiast & Developer** focused on threat intelligence, network security, and building resilient software systems.
 
-- 🔭 **Currently working on:** Enhancing AI threat detection models and full-stack web architectures.
-- 🌱 **Learning & Exploring:** Advanced cloud integrations, backend optimization, and network security.
-- 🎯 **Goals:** Building scalable, secure software and contributing to impactful tech solutions.
+- 🔭 **Currently working on:** Threat detection models and security-focused full-stack tools.
+- 🛡️ **Focus Areas:** Penetration Testing, Application Security, AI in Cyber Defense, Incident Response.
+- 🌱 **Learning & Exploring:** Advanced SOC operations, cloud security architectures, and zero-trust systems.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Cybersecurity & Tech Stack
 
-**Languages & Frameworks**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Security Tools & Domains**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-167DAA?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-132A3E?style=for-the-badge&logo=metasploit&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-000000?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+
+**Development & Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Cloud, Database & Tools**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Key Security Projects
 
-* 🛡️ **[SmartDefense AI (resilience-ai)](https://github.com/[your-username]/resilience-ai)** — An AI-powered threat detection system designed for network security and automated resilience monitoring.
-* ⚡ **[Project Name 2](https://github.com/[your-username]/[repo-name])** — A brief 1-line summary of what this project does and the technology used.
+* 🛡️ **[SmartDefense AI (resilience-ai)](https://github.com/[your-username]/resilience-ai)** — An AI-powered threat detection system designed for automated security monitoring and system resilience.
+* ⚡ **[Project Name 2](https://github.com/[your-username]/[repo-name])** — A brief 1-line description of another security tool, script, or system you built.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
