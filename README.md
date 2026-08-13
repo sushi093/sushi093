@@ -35,8 +35,8 @@ I'm a **Cybersecurity Enthusiast & Developer** focused on threat intelligence, n
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[sushi093]&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[sushi093]&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
