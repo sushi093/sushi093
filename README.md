@@ -28,7 +28,6 @@ I'm a **Cybersecurity Enthusiast & Developer** focused on threat intelligence, n
 ### 🚀 Key Security Projects
 
 * 🛡️ **[SmartDefense AI (resilience-ai)](https://github.com/[]/resilience-ai)** — An AI-powered threat detection system designed for automated security monitoring and system resilience.
-* ⚡ **[Project Name 2](https://github.com/[sushi093]/[repo-name])** — A brief 1-line description of another security tool, script, or system you built.
 
 ---
 
